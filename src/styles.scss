@@ -32,6 +32,7 @@ fa-icon {
 .container {
   width: 500px;
   height: 80vh;
+  position: inherit;
   background-color: var(--blue-2);
   border-radius: 20px;
   box-shadow: 10px 10px 10px var(--shadow-dark);
@@ -166,3 +167,4 @@ fa-icon {
 .search-icon {
   margin-left: 1em;
 }
+
